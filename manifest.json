@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "An Reedited From MUTTP/Vanilla, By Ibra17al/Ibratabian17, 1.1.420 Beta",
+        "name": "RDPacksy! Realnt 20 Mod",
+        "uuid": "604fc8e1-bf91-4839-86bd-05ef5f2fda70",
+        "version": [0, 1, 1420],
+        "min_engine_version": [ 1, 17, 10 ]
+    },
+    "modules": [
+        {
+            "description": "This World is Great?, Yes, In Here Is Very Realistic",
+            "type": "resources",
+            "uuid": "c16c6c87-3d0d-49e1-8b94-234d63210069",
+            "version": [0, 1, 1420]
+        }
+    ]
+}
